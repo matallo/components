@@ -22,7 +22,7 @@ const TextInput = ({
       aria-label={placeholder}
       autoComplete={autocomplete}
       onChange={onChange}
-      className={classnames(className, 'form-control', {
+      className={classnames(className, "form-control", {
         'input-block': block,
         'input-sm': size === 'small',
         'input-lg': size === 'large'
