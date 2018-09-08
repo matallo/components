@@ -1,9 +1,0 @@
-{
-  "alias": "primer-react.now.sh",
-  "files": [
-    "pages",
-    "rollup.config.js",
-    "src",
-    "next.config.js"
-  ]
-}
