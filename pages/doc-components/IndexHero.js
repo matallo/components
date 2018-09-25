@@ -1,6 +1,5 @@
 import React from 'react'
 import {Box, Heading, Text} from '../../src'
-import IndexImage from './IndexImage'
 
 const IndexHero = () => (
   <Box bg="black">
@@ -14,7 +13,7 @@ const IndexHero = () => (
         </Text>
       </Box>
       <Box mb={6}>
-        <IndexImage />
+        <img alt="" src="https://primer-components.now.sh/static/assets/primer-components.svg" />
       </Box>
     </Box>
   </Box>
