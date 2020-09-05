@@ -79,7 +79,7 @@
     "next": "7.0.2",
     "next-compose-plugins": "2.1.1",
     "next-page-map": "0.1.0",
-    "node-sass": "4.9.3",
+    "node-sass": "4.13.1",
     "primer-forms": "2.1.4",
     "primer-layout": "1.4.9",
     "primer-module-build": "1.0.5",
